@@ -1,4 +1,4 @@
-# Common device tree for Xiaomi MT6895 devices
+# Common device tree for Xiaomi MT6985 devices
 
 ```
 #
